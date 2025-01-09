@@ -63,16 +63,44 @@
     {
       "title": "Poster Award at Internatioinal Symposium on Quantum Electronics",
       "date": "2024.2",
-      "awarder": "https://www.tsqs2024.org/",
+      "awarder": "",
       "url": "https://www.tsqs2024.org/",
       "summary": "Awarded JSR poster award by JSR Corporation, who sponsors the symposium"
     },
     {
       "title": "JSR fellowship",
       "date": "2023.4-",
-      "awarder": "https://www.tsqs2024.org/",
+      "awarder": "",
       "url": "https://curie.phys.s.u-tokyo.ac.jp/en/fellowship/",
       "summary": "Awarded JSR Corporation Fellowship"
+    }, 
+    {
+      "title": "Japan Society for Promotion of Science (JSPS) Research Fellow, DC1",
+      "date": "2023.4-",
+      "awarder": "",
+      "url": "https://www.jsps.go.jp/english/e-pd/index.html",
+      "summary": ""
+    },
+    {
+      "title": "The School of Science Encouragement Award",
+      "date": "2023.3",
+      "awarder": "",
+      "url": "https://www.phys.s.u-tokyo.ac.jp/award/37776/",
+      "summary": "Awarded due to excellent academic performance and master thesis (Rank:1/128)"
+    },
+    {
+      "title": "The University of Tokyo President’s Award",
+      "date": "2023.3",
+      "awarder": "",
+      "url": "https://www.phys.s.u-tokyo.ac.jp/award/37776/",
+      "summary": "Selected as one of two out of 3,000 master students at the University of Tokyo."
+    },
+    {
+      "title": "The Excellence Award for Qualifying Exam",
+      "date": "2023.3",
+      "awarder": "",
+      "url": "https://www.s.u-tokyo.ac.jp/en/IGPEES/news/2023-01.html",
+      "summary": "Awarded due to excellent research proposals and oral defense."
     }
   ],
   "certificates": [
