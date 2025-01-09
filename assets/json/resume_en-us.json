@@ -176,14 +176,24 @@
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Prof. Naoki Yoshida",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Professor, Department of Physics, The University of Tokyo"
     },
     {
-      "name": "Professor John Doe",
+      "name": "Prof. Smadar Naoz",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Professor, UCLA"
+    }
+    {
+      "name": "Prof. Andrea Ferrara",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Professor, Scuola Normale Superiore"
+    }
+    {
+      "name": "Prof. Daniel Ceverino",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Associate Professor, Universidad Autonoma de Madrid"
     }
   ],
   "projects": [
