@@ -43,7 +43,7 @@
       "startDate": "2023.4",
       "endDate": "",
       "score": "10",
-      "summary": "supervisor: [Naoki Yoshida](https://www-utap.phys.s.u-tokyo.ac.jp/naoki.yoshida/)",
+      "summary": "supervisor: <a href="https://www-utap.phys.s.u-tokyo.ac.jp/naoki.yoshida/">Naoki Yoshida</a>",
       "courses":[""]
     },
     {
@@ -55,7 +55,7 @@
       "startDate": "2021.4",
       "endDate": "2023.3",
       "score": "10",
-      "summary": "summary": "supervisor: [Naoki Yoshida](https://www-utap.phys.s.u-tokyo.ac.jp/naoki.yoshida/)",
+      "summary": "summary": "supervisor: <a href="https://www-utap.phys.s.u-tokyo.ac.jp/naoki.yoshida/">Naoki Yoshida</a>",
       "courses": [""]
     }
   ],
