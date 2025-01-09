@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/multi-language-al-folio/";
     },
-  },{id: "nav-blog",
-          title: "blog",
-          description: "um tema simples para acadêmicos",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/multi-language-al-folio/blog/";
-          },
-        },{id: "nav-publicações",
+  },{id: "nav-publicações",
           title: "publicações",
           description: "publicações por categoria em ordem cronológica reversa. gerado pelo jekyll-scholar.",
           section: "Navigation",
