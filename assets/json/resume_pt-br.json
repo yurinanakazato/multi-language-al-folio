@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "仲里 佑利奈",
     "label": "Cientista",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
+    "email": "yurina.nakazato@phys.s.u-tokyo.ac.jp",
+    "phone": "",
     "url": "https://george-gca.github.io/multi-language-al-folio/pt-br/",
-    "summary": "Um físico teórico alemão, amplamente considerado um dos cientistas mais influentes de todos os tempos",
+    "summary": "東京大学 理学系研究科 物理学専攻 博士2年",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "東京都文京区本郷7丁目3-1",
+      "postalCode": "113-8654",
+      "city": "東京",
+      "countryCode": "JPN",
+      "region": "日本"
     },
     "profiles": [
       {
