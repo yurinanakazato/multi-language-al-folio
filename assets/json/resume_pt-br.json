@@ -24,36 +24,32 @@
   },
   "work": [
     {
-      "name": "Instituto de Estudos Avançados, Universidade de Princeton",
-      "position": "Professor de Física Teórica",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Ensino no Palmer Physical Laboratory (agora 302 Frist Campus Center). Embora não seja professor em Princeton, associei-me aos professores de física e continuei a dar palestras no campus.",
-      "highlights": ["Relatividade"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "東京大学大学院 理学系研究科物理学専攻",
+      "position": "博士後期課程",
+      "url": "",
+      "startDate": "2023.4",
+      "endDate": "",
+      "summary": "",
+      "highlights": [""]
     }
   ],
   "education": [
     {
-      "institution": "Universidade de Zurique, Zurique, Suíça",
-      "url": "https://www.uzh.ch/",
-      "area": "Desenvolvimento de software",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "東京大学大学院 理学系研究科物理学専攻 博士後期課程",
+      "studyType": "Ph.D. course",
+      "startDate": "2023.4",
+      "endDate": "",
       "score": "10",
-      "courses": ["Teoria da relatividade"]
+      "summary": "指導教員: <a href='https://www-utap.phys.s.u-tokyo.ac.jp/naoki.yoshida/'>吉田直紀 教授</a>"
+    },
+    {
+      "institution": "東京大学大学院 理学系研究科物理学専攻 修士課程",
+      "url": "",
+      "studyType": "M.S.in Physics",
+      "startDate": "2021.4",
+      "endDate": "2023.3",
+      "score": "10",
+      "summary": "指導教員: <a href='https://www-utap.phys.s.u-tokyo.ac.jp/naoki.yoshida/'>吉田直紀 教授</a>"
     }
   ],
   "awards": [
