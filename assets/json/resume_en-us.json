@@ -37,33 +37,42 @@
     {
       "institution": "The University of Tokyo",
       "location": "Tokyo, Japan",
-      "url": "https://www.uzh.ch/",
+      "url": "",
       "area": "department of Physics",
-      "studyType": "PhD",
+      "studyType": "Ph.D. course",
       "startDate": "2023.4",
       "endDate": "",
       "score": "10",
-      "courses": ["galaxy formation, cosmological simulation"]
+      "summary": "supervisor: [Naoki Yoshida](https://www-utap.phys.s.u-tokyo.ac.jp/naoki.yoshida/)",
+      "courses":[""]
     },
     {
       "institution": "The University of Tokyo",
       "location": "Tokyo, Japan",
-      "url": "https://www.uzh.ch/",
+      "url": "",
       "area": "department of Physics",
-      "studyType": "MS",
+      "studyType": "M.S.in Physics",
       "startDate": "2021.4",
       "endDate": "2023.3",
       "score": "10",
-      "courses": ["galaxy formation, cosmological simulation"]
+      "summary": "summary": "supervisor: [Naoki Yoshida](https://www-utap.phys.s.u-tokyo.ac.jp/naoki.yoshida/)",
+      "courses": [""]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Poster Award at Internatioinal Symposium on Quantum Electronics",
+      "date": "2024.2",
+      "awarder": "https://www.tsqs2024.org/",
+      "url": "https://www.tsqs2024.org/",
+      "summary": "Awarded JSR poster award by JSR Corporation, who sponsors the symposium"
+    },
+    {
+      "title": "JSR fellowship",
+      "date": "2023.4-",
+      "awarder": "https://www.tsqs2024.org/",
+      "url": "https://curie.phys.s.u-tokyo.ac.jp/en/fellowship/",
+      "summary": "Awarded JSR Corporation Fellowship"
     }
   ],
   "certificates": [
