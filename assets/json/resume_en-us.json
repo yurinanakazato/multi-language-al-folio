@@ -101,50 +101,20 @@
       "awarder": "",
       "url": "https://www.s.u-tokyo.ac.jp/en/IGPEES/news/2023-01.html",
       "summary": "Awarded due to excellent research proposals and oral defense."
-    }
-  ],
-  "certificates": [
+    }, 
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "title": "The International Graduate Program for Excellence in Earth-Space Science (IGPEES)",
+      "date": "2021.10-",
+      "awarder": "",
+      "url": "https://www.s.u-tokyo.ac.jp/en/IGPEES/index.html",
+      "summary": "Research Assistant at the University of Tokyo."
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "title": "Best Oral Presentation Award at 51th astronomical meeting for junior researchers",
+      "date": "2021.8",
+      "awarder": "",
+      "url": "https://astro-wakate.sakura.ne.jp/ss2021/oralawards/",
+      "summary": "Awarded The Best Oral Presentation by star and planet formation subcommittee."
     }
   ],
   "publications": [
@@ -187,7 +157,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Japanese",
       "fluency": "Native speaker",
       "icon": ""
     },
