@@ -24,8 +24,8 @@
   },
   "work": [
     {
-      "name": "東京大学大学院 理学系研究科物理学専攻",
-      "position": "博士後期課程",
+      "name": "",
+      "position": "東京大学大学院 理学系研究科物理学専攻 博士課程",
       "url": "",
       "startDate": "2023.4",
       "endDate": "",
@@ -35,21 +35,23 @@
   ],
   "education": [
     {
-      "institution": "東京大学大学院 理学系研究科物理学専攻 博士後期課程",
+      "institution": "",
+      "position": "東京大学大学院 理学系研究科物理学専攻 博士課程",
       "studyType": "Ph.D. course",
       "startDate": "2023.4",
       "endDate": "",
       "score": "10",
-      "summary": "指導教員: <a href='https://www-utap.phys.s.u-tokyo.ac.jp/naoki.yoshida/'>吉田直紀 教授</a>"
+      "summary": "指導教員: <a href=\'https://www-utap.phys.s.u-tokyo.ac.jp/naoki.yoshida/\'>吉田直紀 教授</a>"
     },
     {
-      "institution": "東京大学大学院 理学系研究科物理学専攻 修士課程",
+      "institution": "",
+      "position": "東京大学大学院 理学系研究科物理学専攻 修士課程",
       "url": "",
       "studyType": "M.S.in Physics",
       "startDate": "2021.4",
       "endDate": "2023.3",
       "score": "10",
-      "summary": "指導教員: <a href='https://www-utap.phys.s.u-tokyo.ac.jp/naoki.yoshida/'>吉田直紀 教授</a>"
+      "summary": "指導教員: <a href=\'https://www-utap.phys.s.u-tokyo.ac.jp/naoki.yoshida/\'>吉田直紀 教授</a>"
     }
   ],
   "awards": [
