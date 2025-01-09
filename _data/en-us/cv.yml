@@ -2,21 +2,20 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Yurina Nakazato
     - name: Date of Birth
-      value: 14th March 1879
+      value: 7th February 1999
     - name: Languages
-      value: English, German
+      value: English, Japanese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
+    - title: Ph.D. course
+      institution: The University of Tokyo
       year: 1905
       description:
-        - Description 1.
-        - Description 2.
+        - Supervisor: Naoki Yoshida
         - title: Description 3.
           contents:
             - Sub-description 1.
