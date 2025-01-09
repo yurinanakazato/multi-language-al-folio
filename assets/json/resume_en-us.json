@@ -33,29 +33,28 @@
       "highlights": ["Relativity"]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
+      "institution": "The University of Tokyo",
+      "location": "Tokyo, Japan",
       "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "area": "department of Physics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2023.4",
+      "endDate": "",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["galaxy formation, cosmological simulation"]
+    }
+    {
+      "institution": "The University of Tokyo",
+      "location": "Tokyo, Japan",
+      "url": "https://www.uzh.ch/",
+      "area": "department of Physics",
+      "studyType": "MS",
+      "startDate": "2021.4",
+      "endDate": "2023.3",
+      "score": "10",
+      "courses": ["galaxy formation, cosmological simulation"]
     }
   ],
   "awards": [
