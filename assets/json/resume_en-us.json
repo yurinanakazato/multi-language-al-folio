@@ -44,7 +44,7 @@
       "endDate": "",
       "score": "10",
       "courses": ["galaxy formation, cosmological simulation"]
-    }
+    },
     {
       "institution": "The University of Tokyo",
       "location": "Tokyo, Japan",
@@ -184,12 +184,12 @@
       "name": "Prof. Smadar Naoz",
       "icon": "fa-solid fa-thumbtack",
       "reference": "Professor, UCLA"
-    }
+    },
     {
       "name": "Prof. Andrea Ferrara",
       "icon": "fa-solid fa-thumbtack",
       "reference": "Professor, Scuola Normale Superiore"
-    }
+    },
     {
       "name": "Prof. Daniel Ceverino",
       "icon": "fa-solid fa-thumbtack",
