@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "updated Jan 2025.",
+          description: "updated Jan 2025. Click the right icon for pdf version.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/multi-language-al-folio/cv/";
