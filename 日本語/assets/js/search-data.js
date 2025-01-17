@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/multi-language-al-folio/cv/";
           },
+        },{id: "nav-talks",
+          title: "talks",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/multi-language-al-folio/talks/";
+          },
         },{id: "dropdown-publicações",
               title: "publicações",
               description: "",
