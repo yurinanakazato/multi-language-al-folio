@@ -26,10 +26,10 @@
     {
       "name": "",
       "position": "東京大学大学院 理学系研究科物理学専攻 博士課程",
-      "url": "",
+      "url": "https://www.phys.s.u-tokyo.ac.jp/",
       "startDate": "2023.4",
       "endDate": "",
-      "summary": "",
+      "summary": "遠方銀河の形成とその進化"
     }
   ],
   "education": [
@@ -40,7 +40,7 @@
       "startDate": "2023.4",
       "endDate": "",
       "score": "10",
-      "summary": "指導教員: 吉田直紀 教授"
+      "summary": "指導教員: <a href=\"https://www-utap.phys.s.u-tokyo.ac.jp/naoki.yoshida/index_j.html\">吉田直紀 教授</a>"
     },
     {
       "institution": "",
@@ -50,7 +50,10 @@
       "startDate": "2021.4",
       "endDate": "2023.3",
       "score": "10",
-      "summary": "指導教員: 吉田直紀 教授"
+      "keywords": [
+       "指導教員: <a href=\"https://www-utap.phys.s.u-tokyo.ac.jp/naoki.yoshida/index_j.html\">吉田直紀 教授</a>", 
+       "修士論文: <a href=\"https://www-utap.phys.s.u-tokyo.ac.jp/Theses/M_Nakazato.pdf\">宇宙最初期における星団形成と輝線銀河進化</a>"
+      ]
     }
   ],
   "awards": [
