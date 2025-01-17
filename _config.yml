@@ -269,7 +269,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Nakazato]
-  first_name: [Yurina]
+  first_name: [Yurina, Y.]
 
   style: apa
   locale: en
