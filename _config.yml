@@ -268,8 +268,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Nakazato]
+  first_name: [Yurina]
 
   style: apa
   locale: en
@@ -349,7 +349,7 @@ external_links:
 # Jekyll Polyglot
 # -----------------------------------------------------------------------------
 
-languages: ["en-us", "pt-br"]
+languages: ["en-us", "日本語"]
 default_lang: "en-us"
 exclude_from_localization: ["assets"]
 lang_from_path: true
