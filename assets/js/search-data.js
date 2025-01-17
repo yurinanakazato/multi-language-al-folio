@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "My research covers from casmic dawn to the Epoch of Reionization.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/multi-language-al-folio/projects/";
