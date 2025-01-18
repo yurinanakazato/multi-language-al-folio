@@ -1,14 +1,16 @@
 ---
 page_id: project_1
 layout: page
-title: project 1
-description: with background image
+title: First Stellar cluster formation at z = 15 - 25
+description: 
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
 ---
+The formation of Pop III stars and ﬁrst stellar clusters can be affected by a cosmological effect, relative baryon-dark matter velocities, which is supersonic and driven by Baryon Acoustic Oscillation (Tseliakovich & Hirata10). The relative velocities inﬂuence the structure formation and can delay the formation of the ﬁrst stars at z ~ 25 - 15 (e.g., Greif+11, Stacy+11). Nakazato+22 perform cosmological simulations including the relative velocity and non-equilibrium chemistry. I show that the supersonic relative velocity can expel the gas from the host halo and form dark matterless dense clouds with M ~ 10^6 Msun (Figure 1), which reach Jeans unstable and are expected to collapse and start star formation. This might be a new pathway of proto-globular clusters as suggested analytically by Naoz & Narayan 14. The research is expanded as a “supersonic project” a collaboration with UCLA, and I contribute to four co-authors’ papers.  
 
+<!--
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
@@ -80,3 +82,4 @@ Here's the code for the last row of images above:
 ```
 
 {% endraw %}
+-->
