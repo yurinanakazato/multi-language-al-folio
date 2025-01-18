@@ -425,9 +425,9 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-modeling-of-hii-regions-and-chemical-evolution",
+          title: 'Modeling of HII regions and chemical evolution',
+          description: "using FirstLight simulations",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/3_project/";
             },},{id: "projects-the-supersonic-project",
