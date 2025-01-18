@@ -26,6 +26,8 @@ cv:
   education: 学歴
   email: Email
   endDate: 修了日
+  supervisor: 指導教官 
+  thesis: 学位論文
   fluency: fluency
   highlights: highlights
   image: Image
@@ -62,7 +64,7 @@ cv:
   url: URL
   username: username
   volunteer: ボランティア
-  work: 仕事
+  work: 現在
 footer_text: > # the ">" symbol means to ignore newlines until "titles:"
 latest_posts: últimas postagens
 months:
