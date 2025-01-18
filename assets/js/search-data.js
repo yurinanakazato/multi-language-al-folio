@@ -450,6 +450,11 @@ ninja.data = [{
           description: "outro sem imagem",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/4_project/";
+            },},{id: "projects-projeto-5",
+          title: 'projeto 5',
+          description: "um projeto com imagem de fundo",
+          section: "Projects",handler: () => {
+              window.location.href = "/multi-language-al-folio/projects/5_project/";
             },},{
         id: 'social-email',
         title: 'email',
