@@ -400,12 +400,7 @@ ninja.data = [{
             },},{id: "news-um-anúncio-simples-em-uma-linha-com-markdown-emoji-sparkles-smile",
           title: 'Um anúncio simples em uma linha com Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-contribution-to-observation",
-          title: 'Contribution to Observation',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/multi-language-al-folio/projects/5_project/";
-            },},{id: "projects-projeto-6",
+          section: "News",},{id: "projects-projeto-6",
           title: 'projeto 6',
           description: "um projeto sem imagem",
           section: "Projects",handler: () => {
@@ -420,6 +415,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/SIGO/";
+            },},{id: "projects-contribution-to-observation",
+          title: 'Contribution to Observation',
+          description: "a project with a background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/multi-language-al-folio/projects/collaboration_observation/";
             },},{id: "projects-origins-of-luminous-uv-emissions-from-the-ﬁrst-galaxies-at-z-15-10",
           title: 'Origins of luminous UV emissions from the ﬁrst galaxies at z = 15...',
           description: "",
