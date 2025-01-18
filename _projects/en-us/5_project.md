@@ -1,5 +1,5 @@
 ---
-page_id: project_5
+page_id: collaboration_observation
 layout: page
 title: Contribution to Observation
 description: a project with a background image
