@@ -415,9 +415,9 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/9_project/";
-            },},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+            },},{id: "projects-first-stellar-cluster-formation-at-z-15-25",
+          title: 'First Stellar cluster formation at z = 15 - 25',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/1_project/";
             },},{id: "projects-project-2",
