@@ -39,8 +39,7 @@
       "studyType": "東京大学大学院 理学系研究科物理学専攻 博士課程",
       "startDate": "2023.4",
       "endDate": "",
-      "score": "10",
-      "summary": "指導教員: <a href=\"https://www-utap.phys.s.u-tokyo.ac.jp/naoki.yoshida/index_j.html\">吉田直紀</a>教授"
+      "supervisor": "指導教員: <a href=\"https://www-utap.phys.s.u-tokyo.ac.jp/naoki.yoshida/index_j.html\">吉田直紀</a>教授"
     },
     {
       "institution": "",
@@ -48,27 +47,22 @@
       "studyType": "東京大学大学院 理学系研究科物理学専攻 修士課程",
       "startDate": "2021.4",
       "endDate": "2023.3",
-      "score": "10",
-      "keywords": [
-       "指導教員: <a href=\"https://www-utap.phys.s.u-tokyo.ac.jp/naoki.yoshida/index_j.html\">吉田直紀</a>教授", 
-       "修士論文: <a href=\"https://www-utap.phys.s.u-tokyo.ac.jp/Theses/M_Nakazato.pdf\">宇宙最初期における星団形成と輝線銀河進化</a>"
-      ]
+      "supervisor": "指導教員: <a href=\"https://www-utap.phys.s.u-tokyo.ac.jp/naoki.yoshida/index_j.html\">吉田直紀</a>教授", 
+      "thesis": "修士論文: <a href=\"https://www-utap.phys.s.u-tokyo.ac.jp/Theses/M_Nakazato.pdf\">宇宙最初期における星団形成と輝線銀河進化</a>"
     }, 
     {
       "institution": "",
       "position": "",
       "studyType": "東京大学 理科Ⅰ類 → 理学部物理学科",
       "startDate": "2017.4",
-      "endDate": "2021.3",
-      "score": "10"
+      "endDate": "2021.3"
     },
     {
       "institution": "",
       "position": "沖縄県 私立昭和薬科大学附属高校",
       "studyType": "高校",
       "startDate": "2014.4",
-      "endDate": "2017.3",
-      "score": "10"
+      "endDate": "2017.3"
     }
   ],
   "awards": [
@@ -84,7 +78,9 @@
     },
     {
       "title": "日本学術振興会特別研究員 DC1",
-      "date": "2023.4-2026.3"
+      "date": "2023.4-2026.3",
+      "description1": "研究課題名: 多波長輝線観測と数値シミュレーションで解き明かす宇宙最初期の銀河進化 (領域番号:<a href=\"https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23KJ0728/\">23KJ0728</a>)",
+      "description2": "研究奨励金 月額20万円, 特別研究員奨励費(特別枠): 140万円/年"
     }
   ],
   "experiences": [
@@ -131,38 +127,26 @@
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
-  "languages": [
-    {
-      "language": "Alemão",
-      "fluency": "Nativo",
-      "icon": ""
-    },
-    {
-      "language": "Inglês",
-      "fluency": "Fluente",
-      "icon": ""
-    }
-  ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "<a href=\"https://www-utap.phys.s.u-tokyo.ac.jp/naoki.yoshida/\">Prof. Naoki Yoshida</a>",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Professor, Department of Physics, The University of Tokyo"
     },
     {
-      "name": "Professor John Doe",
+      "name": "<a href=\"https://snaoz.astro.ucla.edu/NaozResearch.html\">Prof. Smadar Naoz</a>",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
+      "reference": "Professor, UCLA"
+    },
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "<a href=\"https://www.sns.it/en/persona/andrea-ferrara\">Prof. Andrea Ferrara</a>",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Professor, Scuola Normale Superiore"
+    },
+    {
+      "name": "<a href=\"https://www.sns.it/en/persona/andrea-ferrara\">Prof. Daniel Ceverino</a>",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Associate Professor, Universidad Autonoma de Madrid"
     }
   ]
 }
