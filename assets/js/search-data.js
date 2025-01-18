@@ -415,11 +415,6 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/9_project/";
-            },},{id: "projects-modeling-of-hii-regions-and-chemical-evolution",
-          title: 'Modeling of HII regions and chemical evolution',
-          description: "using FirstLight simulations",
-          section: "Projects",handler: () => {
-              window.location.href = "/multi-language-al-folio/projects/3_project/";
             },},{id: "projects-the-supersonic-project",
           title: 'The Supersonic Project',
           description: "Collaboration with UCLA group",
@@ -445,11 +440,21 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/dusty_outflow/";
+            },},{id: "projects-modeling-of-hii-regions-and-chemical-evolution",
+          title: 'Modeling of HII regions and chemical evolution',
+          description: "using FirstLight simulations",
+          section: "Projects",handler: () => {
+              window.location.href = "/multi-language-al-folio/projects/hii_modeling/";
             },},{id: "projects-projeto-1",
           title: 'projeto 1',
           description: "com imagem de fundo",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/1_project/";
+            },},{id: "projects-projeto-3-com-um-nome-bem-longo",
+          title: 'projeto 3 com um nome bem longo',
+          description: "um projeto que redireciona pra outro website",
+          section: "Projects",handler: () => {
+              window.location.href = "/multi-language-al-folio/projects/3_project/";
             },},{
         id: 'social-email',
         title: 'email',
