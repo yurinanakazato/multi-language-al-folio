@@ -65,6 +65,8 @@ cv:
   username: username
   volunteer: ボランティア
   work: 現在
+  description1: description1
+  description2: description2
 footer_text: > # the ">" symbol means to ignore newlines until "titles:"
 latest_posts: últimas postagens
 months:
