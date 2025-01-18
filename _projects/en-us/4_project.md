@@ -1,9 +1,10 @@
 ---
 page_id: project_4
 layout: page
-title: project 4
+title: The Supersonic Project
 description: another without an image
 img:
+redirect: https://www.astro.ucla.edu/~snaoz/TheSupersonicProject/index.html
 importance: 3
 category: collaboration
 ---
