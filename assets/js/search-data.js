@@ -400,12 +400,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-morphologies-of-high-redshift-galaxies",
-          title: 'Morphologies of high-redshift galaxies',
-          description: "using FirstLight simulations",
-          section: "Projects",handler: () => {
-              window.location.href = "/multi-language-al-folio/projects/6_project/";
-            },},{id: "projects-modeling-of-hii-regions-and-chemical-evolution",
+          section: "News",},{id: "projects-modeling-of-hii-regions-and-chemical-evolution",
           title: 'Modeling of HII regions and chemical evolution',
           description: "using FirstLight simulations",
           section: "Projects",handler: () => {
@@ -415,6 +410,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/SIGO/";
+            },},{id: "projects-morphologies-of-high-redshift-galaxies",
+          title: 'Morphologies of high-redshift galaxies',
+          description: "using FirstLight simulations",
+          section: "Projects",handler: () => {
+              window.location.href = "/multi-language-al-folio/projects/clumpy_galaxies/";
             },},{id: "projects-contribution-to-observation",
           title: 'Contribution to Observation',
           description: "a project with a background image",
