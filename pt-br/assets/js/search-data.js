@@ -400,17 +400,7 @@ ninja.data = [{
             },},{id: "news-um-anúncio-simples-em-uma-linha-com-markdown-emoji-sparkles-smile",
           title: 'Um anúncio simples em uma linha com Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/multi-language-al-folio/projects/9_project/";
-            },},{id: "projects-projeto-4",
-          title: 'projeto 4',
-          description: "outro sem imagem",
-          section: "Projects",handler: () => {
-              window.location.href = "/multi-language-al-folio/projects/4_project/";
-            },},{id: "projects-projeto-5",
+          section: "News",},{id: "projects-projeto-5",
           title: 'projeto 5',
           description: "um projeto com imagem de fundo",
           section: "Projects",handler: () => {
@@ -435,6 +425,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/dusty_outflow/";
+            },},{id: "projects-the-supersonic-project",
+          title: 'The Supersonic Project',
+          description: "Collaboration with UCLA group",
+          section: "Projects",handler: () => {
+              window.location.href = "/multi-language-al-folio/projects/supersonic_project/";
             },},{id: "projects-projeto-1",
           title: 'projeto 1',
           description: "com imagem de fundo",
@@ -450,6 +445,11 @@ ninja.data = [{
           description: "um projeto que redireciona pra outro website",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/3_project/";
+            },},{id: "projects-projeto-4",
+          title: 'projeto 4',
+          description: "outro sem imagem",
+          section: "Projects",handler: () => {
+              window.location.href = "/multi-language-al-folio/projects/4_project/";
             },},{
         id: 'social-email',
         title: 'email',

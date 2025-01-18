@@ -400,17 +400,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/multi-language-al-folio/projects/9_project/";
-            },},{id: "projects-the-supersonic-project",
-          title: 'The Supersonic Project',
-          description: "Collaboration with UCLA group",
-          section: "Projects",handler: () => {
-              window.location.href = "/multi-language-al-folio/projects/4_project/";
-            },},{id: "projects-contribution-to-observation",
+          section: "News",},{id: "projects-contribution-to-observation",
           title: 'Contribution to Observation',
           description: "a project with a background image",
           section: "Projects",handler: () => {
@@ -435,6 +425,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/dusty_outflow/";
+            },},{id: "projects-the-supersonic-project",
+          title: 'The Supersonic Project',
+          description: "Collaboration with UCLA group",
+          section: "Projects",handler: () => {
+              window.location.href = "/multi-language-al-folio/projects/supersonic_project/";
             },},{id: "projects-projeto-1",
           title: 'projeto 1',
           description: "com imagem de fundo",
@@ -450,6 +445,11 @@ ninja.data = [{
           description: "um projeto que redireciona pra outro website",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/3_project/";
+            },},{id: "projects-projeto-4",
+          title: 'projeto 4',
+          description: "outro sem imagem",
+          section: "Projects",handler: () => {
+              window.location.href = "/multi-language-al-folio/projects/4_project/";
             },},{
         id: 'social-email',
         title: 'email',
