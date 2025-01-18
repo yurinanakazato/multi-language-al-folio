@@ -1,5 +1,5 @@
 ---
-page_id: project_2
+page_id: dusty_outflow
 layout: page
 title: Origins of luminous UV emissions from the ﬁrst galaxies at z = 15 - 10
 description: 
