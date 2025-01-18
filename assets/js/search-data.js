@@ -450,6 +450,11 @@ ninja.data = [{
           description: "com imagem de fundo",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/1_project/";
+            },},{id: "projects-projeto-2",
+          title: 'projeto 2',
+          description: "um projeto com imagem de fundo e comentários do giscus",
+          section: "Projects",handler: () => {
+              window.location.href = "/multi-language-al-folio/projects/2_project/";
             },},{id: "projects-projeto-3-com-um-nome-bem-longo",
           title: 'projeto 3 com um nome bem longo',
           description: "um projeto que redireciona pra outro website",

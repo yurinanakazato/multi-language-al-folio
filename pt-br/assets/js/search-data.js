@@ -435,11 +435,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/SIGO/";
-            },},{id: "projects-projeto-2",
-          title: 'projeto 2',
-          description: "um projeto com imagem de fundo e comentários do giscus",
+            },},{id: "projects-origins-of-luminous-uv-emissions-from-the-ﬁrst-galaxies-at-z-15-10",
+          title: 'Origins of luminous UV emissions from the ﬁrst galaxies at z = 15...',
+          description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/multi-language-al-folio/projects/2_project/";
+              window.location.href = "/multi-language-al-folio/projects/dusty_outflow/";
             },},{id: "projects-modeling-of-hii-regions-and-chemical-evolution",
           title: 'Modeling of HII regions and chemical evolution',
           description: "using FirstLight simulations",
@@ -450,6 +450,11 @@ ninja.data = [{
           description: "com imagem de fundo",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/1_project/";
+            },},{id: "projects-projeto-2",
+          title: 'projeto 2',
+          description: "um projeto com imagem de fundo e comentários do giscus",
+          section: "Projects",handler: () => {
+              window.location.href = "/multi-language-al-folio/projects/2_project/";
             },},{id: "projects-projeto-3-com-um-nome-bem-longo",
           title: 'projeto 3 com um nome bem longo',
           description: "um projeto que redireciona pra outro website",
