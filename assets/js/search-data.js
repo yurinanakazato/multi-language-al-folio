@@ -432,7 +432,7 @@ ninja.data = [{
               window.location.href = "/multi-language-al-folio/projects/3_project/";
             },},{id: "projects-the-supersonic-project",
           title: 'The Supersonic Project',
-          description: "another without an image",
+          description: "Collaboration with UCLA group",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/4_project/";
             },},{id: "projects-project-5",
