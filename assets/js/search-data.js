@@ -400,17 +400,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/multi-language-al-folio/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/multi-language-al-folio/projects/9_project/";
-            },},{id: "projects-the-supersonic-project",
+          section: "News",},{id: "projects-the-supersonic-project",
           title: 'The Supersonic Project',
           description: "Collaboration with UCLA group",
           section: "Projects",handler: () => {
