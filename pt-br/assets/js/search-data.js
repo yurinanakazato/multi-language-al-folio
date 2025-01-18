@@ -400,9 +400,9 @@ ninja.data = [{
             },},{id: "news-um-anúncio-simples-em-uma-linha-com-markdown-emoji-sparkles-smile",
           title: 'Um anúncio simples em uma linha com Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-projeto-6",
-          title: 'projeto 6',
-          description: "um projeto sem imagem",
+          section: "News",},{id: "projects-morphologies-of-high-redshift-galaxies",
+          title: 'Morphologies of high-redshift galaxies',
+          description: "using FirstLight simulations",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/6_project/";
             },},{id: "projects-modeling-of-hii-regions-and-chemical-evolution",
@@ -455,6 +455,11 @@ ninja.data = [{
           description: "um projeto com imagem de fundo",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/5_project/";
+            },},{id: "projects-projeto-6",
+          title: 'projeto 6',
+          description: "um projeto sem imagem",
+          section: "Projects",handler: () => {
+              window.location.href = "/multi-language-al-folio/projects/6_project/";
             },},{
         id: 'social-email',
         title: 'email',
