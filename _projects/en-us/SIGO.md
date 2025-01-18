@@ -1,5 +1,5 @@
 ---
-page_id: project_1
+page_id: SIGO
 layout: page
 title: First Stellar cluster formation at z = 15 - 25
 description: 
