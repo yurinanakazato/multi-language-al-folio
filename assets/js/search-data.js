@@ -415,11 +415,6 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/9_project/";
-            },},{id: "projects-origins-of-luminous-uv-emissions-from-the-ﬁrst-galaxies-at-z-15-10",
-          title: 'Origins of luminous UV emissions from the ﬁrst galaxies at z = 15...',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/multi-language-al-folio/projects/2_project/";
             },},{id: "projects-modeling-of-hii-regions-and-chemical-evolution",
           title: 'Modeling of HII regions and chemical evolution',
           description: "using FirstLight simulations",
@@ -445,6 +440,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/SIGO/";
+            },},{id: "projects-origins-of-luminous-uv-emissions-from-the-ﬁrst-galaxies-at-z-15-10",
+          title: 'Origins of luminous UV emissions from the ﬁrst galaxies at z = 15...',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/multi-language-al-folio/projects/dusty_outflow/";
             },},{id: "projects-projeto-1",
           title: 'projeto 1',
           description: "com imagem de fundo",
