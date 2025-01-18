@@ -430,6 +430,11 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/6_project/";
+            },},{id: "projects-modeling-of-hii-regions-and-chemical-evolution",
+          title: 'Modeling of HII regions and chemical evolution',
+          description: "using FirstLight simulations",
+          section: "Projects",handler: () => {
+              window.location.href = "/multi-language-al-folio/projects/HII_modeling/";
             },},{id: "projects-first-stellar-cluster-formation-at-z-15-25",
           title: 'First Stellar cluster formation at z = 15 - 25',
           description: "",
@@ -440,11 +445,6 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/dusty_outflow/";
-            },},{id: "projects-modeling-of-hii-regions-and-chemical-evolution",
-          title: 'Modeling of HII regions and chemical evolution',
-          description: "using FirstLight simulations",
-          section: "Projects",handler: () => {
-              window.location.href = "/multi-language-al-folio/projects/hii_modeling/";
             },},{id: "projects-projeto-1",
           title: 'projeto 1',
           description: "com imagem de fundo",
