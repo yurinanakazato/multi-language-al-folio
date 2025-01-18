@@ -5,6 +5,7 @@ blog:
   navigation_title: blog
 categories:
   fun: fun
+  collaborations: collaborations
   work: work
 citation:
   bibtex: "or as a BibTeX entry:"
