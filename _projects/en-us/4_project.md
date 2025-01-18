@@ -2,7 +2,7 @@
 page_id: project_4
 layout: page
 title: The Supersonic Project
-description: another without an image
+description: Collaboration with UCLA group
 img:
 redirect: https://www.astro.ucla.edu/~snaoz/TheSupersonicProject/index.html
 importance: 3
