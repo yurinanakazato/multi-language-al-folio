@@ -26,6 +26,8 @@ cv:
   education: Education
   email: Email
   endDate: End date
+  supervisor: Supervisor 
+  thesis: Thesis
   fluency: Fluency
   highlights: Highlights
   image: Image
