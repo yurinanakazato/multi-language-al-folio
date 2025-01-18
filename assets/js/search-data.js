@@ -415,11 +415,6 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/9_project/";
-            },},{id: "projects-first-stellar-cluster-formation-at-z-15-25",
-          title: 'First Stellar cluster formation at z = 15 - 25',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/multi-language-al-folio/projects/1_project/";
             },},{id: "projects-origins-of-luminous-uv-emissions-from-the-ﬁrst-galaxies-at-z-15-10",
           title: 'Origins of luminous UV emissions from the ﬁrst galaxies at z = 15...',
           description: "",
@@ -445,6 +440,16 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/6_project/";
+            },},{id: "projects-first-stellar-cluster-formation-at-z-15-25",
+          title: 'First Stellar cluster formation at z = 15 - 25',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/multi-language-al-folio/projects/SIGO/";
+            },},{id: "projects-projeto-1",
+          title: 'projeto 1',
+          description: "com imagem de fundo",
+          section: "Projects",handler: () => {
+              window.location.href = "/multi-language-al-folio/projects/1_project/";
             },},{
         id: 'social-email',
         title: 'email',
