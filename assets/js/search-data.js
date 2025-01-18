@@ -430,8 +430,8 @@ ninja.data = [{
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
+            },},{id: "projects-the-supersonic-project",
+          title: 'The Supersonic Project',
           description: "another without an image",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/4_project/";
