@@ -3,7 +3,7 @@ page_id: clumpy_galaxies
 layout: page
 title: Morphologies of high-redshift galaxies
 description: using FirstLight simulations
-img:
+img: assets/img/FL_simulation_yt.png
 importance: 4
 category: work
 ---
