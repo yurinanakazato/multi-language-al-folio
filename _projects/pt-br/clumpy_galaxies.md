@@ -1,5 +1,5 @@
 ---
-page_id: project_4
+page_id: clumpy_galaxies
 layout: page
 title: 遠方銀河の塊状構造の起源
 description: 
