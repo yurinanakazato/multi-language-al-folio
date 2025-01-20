@@ -3,7 +3,7 @@ page_id: supersonic_project
 layout: page
 title: The Supersonic Project
 description: Collaboration with UCLA group
-img:
+img: assets/img/SIGO_velocity_field.png
 redirect: https://www.astro.ucla.edu/~snaoz/TheSupersonicProject/index.html
 importance: 3
 category: collaboration
