@@ -3,16 +3,16 @@ page_id: about
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 4 th year Ph.D. student at <a href='https://www-utap.phys.s.u-tokyo.ac.jp/index.html'>the University of Tokyo</a>.Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Science Building 1, The University of Tokyo</p>
+    <p>7-3-1, Hongo, Bunkyo-ku</p>
+    <p>Tokyo, Japan, 113-8654</p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
