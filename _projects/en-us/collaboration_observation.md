@@ -2,7 +2,7 @@
 page_id: collaboration_observation
 layout: page
 title: Contribution to Observation
-description: a project with a background image
+description: 
 img: assets/img/A2744_OD.png
 importance: 3
 category: collaboration
