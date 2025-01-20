@@ -5,7 +5,7 @@ blog:
   navigation_title: blog
 categories:
   fun: fun
-  collaborations: collaborations
+  collaboration: collaboration
   work: work
 citation:
   bibtex: "or as a BibTex entry"
@@ -68,7 +68,7 @@ cv:
   description1: description1
   description2: description2
 footer_text: > # the ">" symbol means to ignore newlines until "titles:"
-latest_posts: últimas postagens
+latest_posts: latest posts
 months:
   long:
     january: 1月
@@ -96,7 +96,7 @@ months:
     october: Oct
     november: Nov
     december: Dec
-news: ニュース
+news: News
 newsletter:
   back: Back
   error: "Oops! Something went wrong, please try again."
