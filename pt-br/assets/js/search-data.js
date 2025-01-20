@@ -427,12 +427,7 @@ ninja.data = [{
               window.location.href = "/multi-language-al-folio/projects/dusty_outflow/";
             },},{id: "projects-the-supersonic-project",
           title: 'The Supersonic Project',
-          description: "Collaboration with UCLA group",
-          section: "Projects",handler: () => {
-              window.location.href = "/multi-language-al-folio/projects/supersonic_project/";
-            },},{id: "projects-projeto-6",
-          title: 'projeto 6',
-          description: "um projeto sem imagem",
+          description: "UCLAグループとの共同研究",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/6_project/";
             },},{
