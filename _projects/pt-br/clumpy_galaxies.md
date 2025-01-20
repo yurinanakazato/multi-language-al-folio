@@ -4,7 +4,7 @@ layout: page
 title: 遠方銀河の塊状構造の起源
 description: 
 img:
-importance: 3
+importance: 4
 category: work 
 ---
 
