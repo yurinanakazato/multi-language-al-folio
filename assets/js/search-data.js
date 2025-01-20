@@ -430,11 +430,6 @@ ninja.data = [{
           description: "Collaboration with UCLA group",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/supersonic_project/";
-            },},{id: "projects-projeto-1",
-          title: 'projeto 1',
-          description: "com imagem de fundo",
-          section: "Projects",handler: () => {
-              window.location.href = "/multi-language-al-folio/projects/1_project/";
             },},{id: "projects-projeto-2",
           title: 'projeto 2',
           description: "um projeto com imagem de fundo e comentários do giscus",

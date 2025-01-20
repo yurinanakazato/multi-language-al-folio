@@ -405,8 +405,8 @@ ninja.data = [{
           description: "using FirstLight simulations",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/HII_modeling/";
-            },},{id: "projects-first-stellar-cluster-formation-at-z-15-25",
-          title: 'First Stellar cluster formation at z = 15 - 25',
+            },},{id: "projects-宇宙最初期の星団形成",
+          title: '宇宙最初期の星団形成',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/SIGO/";
@@ -430,11 +430,6 @@ ninja.data = [{
           description: "Collaboration with UCLA group",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/supersonic_project/";
-            },},{id: "projects-projeto-1",
-          title: 'projeto 1',
-          description: "com imagem de fundo",
-          section: "Projects",handler: () => {
-              window.location.href = "/multi-language-al-folio/projects/1_project/";
             },},{id: "projects-projeto-2",
           title: 'projeto 2',
           description: "um projeto com imagem de fundo e comentários do giscus",
