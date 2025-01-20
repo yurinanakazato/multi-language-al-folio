@@ -3,7 +3,7 @@ page_id: about
 layout: about
 title: about
 permalink: /
-subtitle: 4 th year Ph.D. student at <a href='https://www-utap.phys.s.u-tokyo.ac.jp/index.html'>the University of Tokyo</a>.Etc.
+subtitle: 4 th year Ph.D. student at <a href='https://www-utap.phys.s.u-tokyo.ac.jp/index.html'>the University of Tokyo</a>.
 
 profile:
   align: right
