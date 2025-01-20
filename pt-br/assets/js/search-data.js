@@ -404,7 +404,7 @@ ninja.data = [{
           title: '再電離期の星形成銀河からの輝線放射の計算',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/multi-language-al-folio/projects/3_project/";
+              window.location.href = "/multi-language-al-folio/projects/HII_modeling/";
             },},{id: "projects-宇宙最初期の星団形成",
           title: '宇宙最初期の星団形成',
           description: "",
