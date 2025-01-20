@@ -3,7 +3,7 @@ page_id: clumpy_galaxies
 layout: page
 title: 遠方銀河の塊状構造の起源
 description: 
-img:
+img: assets/img/FL_simulation_yt.png
 importance: 4
 category: work 
 ---
