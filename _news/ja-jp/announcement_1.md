@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Um anúncio simples em uma linha.
+テスト文です。
