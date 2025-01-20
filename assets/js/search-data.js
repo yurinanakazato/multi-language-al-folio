@@ -417,7 +417,7 @@ ninja.data = [{
               window.location.href = "/multi-language-al-folio/projects/clumpy_galaxies/";
             },},{id: "projects-contribution-to-observation",
           title: 'Contribution to Observation',
-          description: "a project with a background image",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/collaboration_observation/";
             },},{id: "projects-origins-of-luminous-uv-emissions-from-the-ﬁrst-galaxies-at-z-15-10",
@@ -430,11 +430,6 @@ ninja.data = [{
           description: "Collaboration with UCLA group",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/supersonic_project/";
-            },},{id: "projects-projeto-5",
-          title: 'projeto 5',
-          description: "um projeto com imagem de fundo",
-          section: "Projects",handler: () => {
-              window.location.href = "/multi-language-al-folio/projects/5_project/";
             },},{id: "projects-projeto-6",
           title: 'projeto 6',
           description: "um projeto sem imagem",

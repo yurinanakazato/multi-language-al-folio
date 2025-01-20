@@ -415,9 +415,9 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/clumpy_galaxies/";
-            },},{id: "projects-contribution-to-observation",
-          title: 'Contribution to Observation',
-          description: "a project with a background image",
+            },},{id: "projects-観測結果の解釈-理論予測",
+          title: '観測結果の解釈/理論予測',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/collaboration_observation/";
             },},{id: "projects-最遠方銀河での明るい紫外光の起源",
@@ -430,11 +430,6 @@ ninja.data = [{
           description: "Collaboration with UCLA group",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/supersonic_project/";
-            },},{id: "projects-projeto-5",
-          title: 'projeto 5',
-          description: "um projeto com imagem de fundo",
-          section: "Projects",handler: () => {
-              window.location.href = "/multi-language-al-folio/projects/5_project/";
             },},{id: "projects-projeto-6",
           title: 'projeto 6',
           description: "um projeto sem imagem",
