@@ -3,10 +3,10 @@ page_id: projects
 layout: page
 title: 研究
 permalink: /projects/
-description: Uma crescente coleção de seus projetos interessantes.
+description: 主に赤方偏移6以上の遠方銀河に関する理論研究を行っています。
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [work, collaboration]
 horizontal: false
 ---
 
