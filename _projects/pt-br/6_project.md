@@ -1,11 +1,12 @@
 ---
-page_id: project_6
+page_id: supersonic_project
 layout: page
-title: projeto 6
-description: um projeto sem imagem
-img:
+title: The Supersonic Project
+description: UCLAグループとの共同研究
+img: assets/img/SIGO_velocity_field.png
+redirect: https://www.astro.ucla.edu/~snaoz/TheSupersonicProject/index.html
 importance: 4
-category: fun
+category: collaboration
 ---
 
 Every project has a beautiful feature showcase page.
