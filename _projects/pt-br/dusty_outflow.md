@@ -1,9 +1,9 @@
 ---
-page_id: project_2
+page_id: dusty_outflow
 layout: page
-title: projeto 2
-description: um projeto com imagem de fundo e comentários do giscus
-img: assets/img/3.jpg
+title: 最遠方銀河での明るい紫外光の起源
+description: 
+img: assets/img/UV_bright_galaxies.png
 importance: 2
 category: work
 giscus_comments: true
