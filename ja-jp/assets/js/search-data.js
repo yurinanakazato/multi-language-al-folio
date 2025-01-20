@@ -7,35 +7,35 @@ ninja.data = [{
     title: "概要",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/multi-language-al-folio/";
+      window.location.href = "/";
     },
   },{id: "nav-論文",
           title: "論文",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/multi-language-al-folio/publications/";
+            window.location.href = "/publications/";
           },
         },{id: "nav-研究",
           title: "研究",
           description: "Uma crescente coleção de seus projetos interessantes.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/multi-language-al-folio/projects/";
+            window.location.href = "/projects/";
           },
         },{id: "nav-履歴書",
           title: "履歴書",
           description: "updated Jan 2025.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/multi-language-al-folio/cv/";
+            window.location.href = "/cv/";
           },
         },{id: "nav-学会発表",
           title: "学会発表",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/multi-language-al-folio/talks/";
+            window.location.href = "/talks/";
           },
         },{id: "post-a-post-with-image-galleries",
       
@@ -45,7 +45,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/multi-language-al-folio/blog/2024/photo-gallery/";
+          window.location.href = "/blog/2024/photo-gallery/";
         
       },
     },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
@@ -67,7 +67,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/multi-language-al-folio/blog/2024/tabs/";
+          window.location.href = "/blog/2024/tabs/";
         
       },
     },{id: "post-a-post-with-typograms",
@@ -78,7 +78,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/multi-language-al-folio/blog/2024/typograms/";
+          window.location.href = "/blog/2024/typograms/";
         
       },
     },{id: "post-a-post-that-can-be-cited",
@@ -89,7 +89,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/multi-language-al-folio/blog/2024/post-citation/";
+          window.location.href = "/blog/2024/post-citation/";
         
       },
     },{id: "post-a-post-with-pseudo-code",
@@ -100,7 +100,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/multi-language-al-folio/blog/2024/pseudocode/";
+          window.location.href = "/blog/2024/pseudocode/";
         
       },
     },{id: "post-a-post-with-code-diff",
@@ -111,7 +111,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/multi-language-al-folio/blog/2024/code-diff/";
+          window.location.href = "/blog/2024/code-diff/";
         
       },
     },{id: "post-a-post-with-advanced-image-components",
@@ -122,7 +122,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/multi-language-al-folio/blog/2024/advanced-images/";
+          window.location.href = "/blog/2024/advanced-images/";
         
       },
     },{id: "post-a-post-with-vega-lite",
@@ -133,7 +133,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/multi-language-al-folio/blog/2024/vega-lite/";
+          window.location.href = "/blog/2024/vega-lite/";
         
       },
     },{id: "post-a-post-with-geojson",
@@ -144,7 +144,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/multi-language-al-folio/blog/2024/geojson-map/";
+          window.location.href = "/blog/2024/geojson-map/";
         
       },
     },{id: "post-a-post-with-echarts",
@@ -155,7 +155,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/multi-language-al-folio/blog/2024/echarts/";
+          window.location.href = "/blog/2024/echarts/";
         
       },
     },{id: "post-a-post-with-chart-js",
@@ -166,7 +166,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/multi-language-al-folio/blog/2024/chartjs/";
+          window.location.href = "/blog/2024/chartjs/";
         
       },
     },{id: "post-a-post-with-tikzjax",
@@ -177,7 +177,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/multi-language-al-folio/blog/2023/tikzjax/";
+          window.location.href = "/blog/2023/tikzjax/";
         
       },
     },{id: "post-a-post-with-bibliography",
@@ -188,7 +188,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/multi-language-al-folio/blog/2023/post-bibliography/";
+          window.location.href = "/blog/2023/post-bibliography/";
         
       },
     },{id: "post-a-post-with-jupyter-notebook",
@@ -199,7 +199,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/multi-language-al-folio/blog/2023/jupyter-notebook/";
+          window.location.href = "/blog/2023/jupyter-notebook/";
         
       },
     },{id: "post-a-post-with-custom-blockquotes",
@@ -210,7 +210,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/multi-language-al-folio/blog/2023/custom-blockquotes/";
+          window.location.href = "/blog/2023/custom-blockquotes/";
         
       },
     },{id: "post-a-post-with-table-of-contents-on-a-sidebar",
@@ -221,7 +221,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/multi-language-al-folio/blog/2023/sidebar-table-of-contents/";
+          window.location.href = "/blog/2023/sidebar-table-of-contents/";
         
       },
     },{id: "post-a-post-with-audios",
@@ -232,7 +232,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/multi-language-al-folio/blog/2023/audios/";
+          window.location.href = "/blog/2023/audios/";
         
       },
     },{id: "post-a-post-with-videos",
@@ -243,7 +243,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/multi-language-al-folio/blog/2023/videos/";
+          window.location.href = "/blog/2023/videos/";
         
       },
     },{id: "post-displaying-beautiful-tables-with-bootstrap-tables",
@@ -254,7 +254,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/multi-language-al-folio/blog/2023/tables/";
+          window.location.href = "/blog/2023/tables/";
         
       },
     },{id: "post-a-post-with-table-of-contents",
@@ -265,7 +265,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/multi-language-al-folio/blog/2023/table-of-contents/";
+          window.location.href = "/blog/2023/table-of-contents/";
         
       },
     },{id: "post-a-post-with-giscus-comments",
@@ -276,7 +276,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/multi-language-al-folio/blog/2022/giscus-comments/";
+          window.location.href = "/blog/2022/giscus-comments/";
         
       },
     },{id: "post-displaying-external-posts-on-your-al-folio-blog",
@@ -298,7 +298,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/multi-language-al-folio/assets/pdf/pt-br/example_pdf.pdf";
+          window.location.href = "/assets/pdf/pt-br/example_pdf.pdf";
         
       },
     },{id: "post-a-post-with-diagrams",
@@ -309,7 +309,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/multi-language-al-folio/blog/2021/diagrams/";
+          window.location.href = "/blog/2021/diagrams/";
         
       },
     },{id: "post-a-post-with-twitter",
@@ -320,7 +320,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/multi-language-al-folio/blog/2020/twitter/";
+          window.location.href = "/blog/2020/twitter/";
         
       },
     },{id: "post-a-distill-style-blog-post",
@@ -331,7 +331,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/multi-language-al-folio/blog/2018/distill/";
+          window.location.href = "/blog/2018/distill/";
         
       },
     },{id: "post-a-post-with-disqus-comments",
@@ -342,7 +342,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/multi-language-al-folio/blog/2015/disqus-comments/";
+          window.location.href = "/blog/2015/disqus-comments/";
         
       },
     },{id: "post-a-post-with-math",
@@ -353,7 +353,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/multi-language-al-folio/blog/2015/math/";
+          window.location.href = "/blog/2015/math/";
         
       },
     },{id: "post-uma-postagem-com-código",
@@ -364,7 +364,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/multi-language-al-folio/blog/2015/code/";
+          window.location.href = "/blog/2015/code/";
         
       },
     },{id: "post-a-post-with-images",
@@ -375,7 +375,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/multi-language-al-folio/blog/2015/images/";
+          window.location.href = "/blog/2015/images/";
         
       },
     },{id: "post-a-post-with-formatting-and-links",
@@ -386,7 +386,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/multi-language-al-folio/blog/2015/formatting-and-links/";
+          window.location.href = "/blog/2015/formatting-and-links/";
         
       },
     },{id: "news-um-anúncio-simples-em-uma-linha",
@@ -396,7 +396,7 @@ ninja.data = [{
           title: 'Um anúncio longo com detalhes',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/multi-language-al-folio/news/announcement_2/";
+              window.location.href = "/news/announcement_2/";
             },},{id: "news-um-anúncio-simples-em-uma-linha-com-markdown-emoji-sparkles-smile",
           title: 'Um anúncio simples em uma linha com Markdown emoji! :sparkles: :smile:',
           description: "",
@@ -404,32 +404,32 @@ ninja.data = [{
           title: '再電離期の星形成銀河からの輝線放射の計算',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/multi-language-al-folio/projects/HII_modeling/";
+              window.location.href = "/projects/HII_modeling/";
             },},{id: "projects-宇宙最初期の星団形成",
           title: '宇宙最初期の星団形成',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/multi-language-al-folio/projects/SIGO/";
+              window.location.href = "/projects/SIGO/";
             },},{id: "projects-遠方銀河の塊状構造の起源",
           title: '遠方銀河の塊状構造の起源',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/multi-language-al-folio/projects/clumpy_galaxies/";
+              window.location.href = "/projects/clumpy_galaxies/";
             },},{id: "projects-観測結果の解釈-理論予測",
           title: '観測結果の解釈/理論予測',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/multi-language-al-folio/projects/collaboration_observation/";
+              window.location.href = "/projects/collaboration_observation/";
             },},{id: "projects-最遠方銀河での明るい紫外光の起源",
           title: '最遠方銀河での明るい紫外光の起源',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/multi-language-al-folio/projects/dusty_outflow/";
+              window.location.href = "/projects/dusty_outflow/";
             },},{id: "projects-the-supersonic-project",
           title: 'The Supersonic Project',
           description: "UCLAグループとの共同研究",
           section: "Projects",handler: () => {
-              window.location.href = "/multi-language-al-folio/projects/supersonic_project/";
+              window.location.href = "/projects/supersonic_project/";
             },},{
         id: 'social-email',
         title: 'email',
@@ -449,7 +449,7 @@ ninja.data = [{
         title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
-          window.open("/multi-language-al-folio/feed.xml", "_blank");
+          window.open("/feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',
