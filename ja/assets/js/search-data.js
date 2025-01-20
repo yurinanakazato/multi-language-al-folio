@@ -298,7 +298,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/multi-language-al-folio/assets/pdf/en-us/example_pdf.pdf";
+          window.location.href = "/multi-language-al-folio/assets/pdf/pt-br/example_pdf.pdf";
         
       },
     },{id: "post-a-post-with-diagrams",
@@ -356,11 +356,11 @@ ninja.data = [{
           window.location.href = "/multi-language-al-folio/blog/2015/math/";
         
       },
-    },{id: "post-a-post-with-code",
+    },{id: "post-uma-postagem-com-código",
       
-        title: "a post with code",
+        title: "uma postagem com código",
       
-      description: "an example of a blog post with some code",
+      description: "um exemplo de uma postagem em um blog com código",
       section: "Posts",
       handler: () => {
         
