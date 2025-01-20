@@ -5,7 +5,7 @@
     "image": "",
     "email": "yurina.nakazato@phys.s.u-tokyo.ac.jp",
     "phone": "",
-    "url": "https://george-gca.github.io/multi-language-al-folio/pt-br/",
+    "url": "https://yurinanakazato.github.io/ja-jp/",
     "summary": "東京大学 理学系研究科 物理学専攻 博士2年",
     "location": {
       "address": "東京都文京区本郷7丁目3-1",
@@ -85,46 +85,29 @@
   ],
   "experiences": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Polaris AI",
+      "date": "2024-02-03",
+      "url": "https://polarisai.co.jp/",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "理学部物理学科 学部3,4年生 「流体力学」TA",
+      "date": "2021-04-08",
+      "issuer": "東京大学",
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "多言語交流会 International Lounge ランゲージアシスタント(LA)",
+      "date": "2020-04-2024-01",
+      "issuer": "東京大学",
+      "url": "https://www.jlcse.t.u-tokyo.ac.jp/ja/activities/icyou/",
       "icon": "fa-solid fa-envelope"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "東大ネットアカデミー講師",
+      "date": "2018-10-2021-03",
+      "url": "https://tna-tokyo.com/",
       "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "references": [
