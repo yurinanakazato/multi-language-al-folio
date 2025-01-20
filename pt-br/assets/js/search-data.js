@@ -400,11 +400,11 @@ ninja.data = [{
             },},{id: "news-um-anúncio-simples-em-uma-linha-com-markdown-emoji-sparkles-smile",
           title: 'Um anúncio simples em uma linha com Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-modeling-of-hii-regions-and-chemical-evolution",
-          title: 'Modeling of HII regions and chemical evolution',
-          description: "using FirstLight simulations",
+          section: "News",},{id: "projects-再電離期の星形成銀河からの輝線放射の計算",
+          title: '再電離期の星形成銀河からの輝線放射の計算',
+          description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/multi-language-al-folio/projects/HII_modeling/";
+              window.location.href = "/multi-language-al-folio/projects/3_project/";
             },},{id: "projects-宇宙最初期の星団形成",
           title: '宇宙最初期の星団形成',
           description: "",
@@ -430,11 +430,6 @@ ninja.data = [{
           description: "Collaboration with UCLA group",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/supersonic_project/";
-            },},{id: "projects-projeto-3-com-um-nome-bem-longo",
-          title: 'projeto 3 com um nome bem longo',
-          description: "um projeto que redireciona pra outro website",
-          section: "Projects",handler: () => {
-              window.location.href = "/multi-language-al-folio/projects/3_project/";
             },},{id: "projects-projeto-4",
           title: 'projeto 4',
           description: "outro sem imagem",
