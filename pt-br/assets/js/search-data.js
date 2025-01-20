@@ -429,7 +429,7 @@ ninja.data = [{
           title: 'The Supersonic Project',
           description: "UCLAグループとの共同研究",
           section: "Projects",handler: () => {
-              window.location.href = "/multi-language-al-folio/projects/6_project/";
+              window.location.href = "/multi-language-al-folio/projects/supersonic_project/";
             },},{
         id: 'social-email',
         title: 'email',
