@@ -389,8 +389,8 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-um-anúncio-simples-em-uma-linha",
-          title: 'Um anúncio simples em uma linha.',
+    },{id: "news-テスト文です",
+          title: 'テスト文です。',
           description: "",
           section: "News",},{id: "news-um-anúncio-longo-com-detalhes",
           title: 'Um anúncio longo com detalhes',
