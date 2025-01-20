@@ -1,0 +1,145 @@
+archive_category: um arquivo de postagens desta categoria
+archive_tag: um arquivo de postagens com este marcador
+archive_year: um arquivo de postagens deste ano
+blog:
+  navigation_title: blog
+categories:
+  fun: fun
+  collaborations: collaborations
+  work: work
+citation:
+  bibtex: "or as a BibTex entry"
+  introduction: "If you found this useful, please cite this as:"
+contact_note: You can even add a little note about which of these is the best way to reach you.
+cv:
+  address: 住所
+  area: 場所
+  awarder: 授与者
+  awards: 受賞
+  basics: 基本情報
+  certificates: 資格等
+  experiences: 職歴
+  city: 町
+  countryCode: 国コード
+  courses: courses
+  date: date
+  education: 学歴
+  email: Email
+  endDate: 修了日
+  supervisor: 指導教官 
+  thesis: 学位論文
+  fluency: fluency
+  highlights: highlights
+  image: Image
+  institution: 機関
+  interests: 研究分野
+  issuer: issuer
+  keywords: keywords
+  label: label
+  language: 言語
+  languages: 言語
+  level: レベル
+  location: location
+  name: 名前
+  network: network
+  organization: 機関
+  phone: 電話番号
+  position: 身分
+  postalCode: 郵便番号
+  profiles: profiles
+  projects: 研究内容
+  publications: 論文
+  publisher: publisher
+  reference: reference
+  references: references
+  region: 場所
+  releaseDate: release date
+  score: score
+  skills: スキル等
+  startDate: 開始日
+  studyType: study type
+  summary: summary
+  table_of_contents: topics
+  title: title
+  url: URL
+  username: username
+  volunteer: ボランティア
+  work: 現在
+  description1: description1
+  description2: description2
+footer_text: > # the ">" symbol means to ignore newlines until "titles:"
+latest_posts: últimas postagens
+months:
+  long:
+    january: 1月
+    february: 2月
+    march: 3月
+    april: 4月
+    may: 5月
+    june: 6月
+    july: 7月
+    august: 8月
+    september: 9月
+    october: 10月
+    november: 11月
+    december: 12月
+  short:
+    january: Jan
+    february: Fev
+    march: Mar
+    april: Apr
+    may: May
+    june: Jun
+    july: Jul
+    august: Aug
+    september: Sep
+    october: Oct
+    november: Nov
+    december: Dec
+news: ニュース
+newsletter:
+  back: Back
+  error: "Oops! Something went wrong, please try again."
+  subscribe: subscribe
+  subscribed: "You have successfully subscribed to the newsletter."
+  subscribe_to_receive: "Subscribe to be notified of future articles:"
+  too_many_signups: "Too many signups, please try again in a little while"
+  wait: "Please wait..."
+no_news: No news so far...
+pagination:
+  page: page
+post:
+  created_in: Created in
+  created_by: by
+  last_updated: last updated
+references: References
+related_posts:
+  description: "Here are some more articles you might like to read next:"
+  title: Enjoy Reading This Article?
+search:
+  dark_theme:
+    description: Change the theme of the site to Dark
+    title: Change theme to dark
+  dropdown: Dropdown
+  email: Send an email
+  footer:
+    close: to close
+    navigate: to navigate
+    parent: move to parent
+    select: to select
+  languages: Languages
+  light_theme:
+    description: Change the theme of the site to Light
+    title: Change theme to light
+  navigation: Navigation menu
+  news: News
+  placeholder: Type to start searching
+  posts: Posts
+  projects: Projects
+  socials: Socials
+  system_theme:
+    description: Change the theme of the site to System Default
+    title: Use system default theme
+  theme: Theme
+selected_publications: selected publications
+site_description: A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
