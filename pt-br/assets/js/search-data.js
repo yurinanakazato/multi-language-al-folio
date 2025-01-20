@@ -417,7 +417,7 @@ ninja.data = [{
               window.location.href = "/multi-language-al-folio/projects/clumpy_galaxies/";
             },},{id: "projects-contribution-to-observation",
           title: 'Contribution to Observation',
-          description: "",
+          description: "a project with a background image",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/collaboration_observation/";
             },},{id: "projects-最遠方銀河での明るい紫外光の起源",
