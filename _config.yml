@@ -187,7 +187,7 @@ exclude:
   - package.json
   - package-lock.json
   - _pages/en-us/about_einstein.md
-  - _pages/ja/about_einstein.md
+  - _pages/ja-jp/about_einstein.md
   - purgecss.config.js
   - README.md
   - readme_preview/
@@ -637,8 +637,8 @@ third_party_libraries:
 jekyll_get_json:
   - data: resume_en-us
     json: assets/json/resume_en-us.json # it can also be an url
-  - data: resume_ja
-    json: assets/json/resume_ja.json # it can also be an url
+  - data: resume_ja-jp
+    json: assets/json/resume_ja-jp.json # it can also be an url
 jsonresume:
   - basics
   - work
