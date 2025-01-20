@@ -410,14 +410,14 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/SIGO/";
-            },},{id: "projects-morphologies-of-high-redshift-galaxies",
-          title: 'Morphologies of high-redshift galaxies',
-          description: "using FirstLight simulations",
+            },},{id: "projects-遠方銀河の塊状構造の起源",
+          title: '遠方銀河の塊状構造の起源',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/clumpy_galaxies/";
             },},{id: "projects-contribution-to-observation",
           title: 'Contribution to Observation',
-          description: "a project with a background image",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/collaboration_observation/";
             },},{id: "projects-最遠方銀河での明るい紫外光の起源",
@@ -440,11 +440,6 @@ ninja.data = [{
           description: "um projeto sem imagem",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/6_project/";
-            },},{id: "projects-遠方銀河の塊状構造の起源",
-          title: '遠方銀河の塊状構造の起源',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/multi-language-al-folio/projects/clumpy_galaxies/";
             },},{
         id: 'social-email',
         title: 'email',
