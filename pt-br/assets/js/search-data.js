@@ -400,34 +400,34 @@ ninja.data = [{
             },},{id: "news-um-anúncio-simples-em-uma-linha-com-markdown-emoji-sparkles-smile",
           title: 'Um anúncio simples em uma linha com Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-modeling-of-hii-regions-and-chemical-evolution",
-          title: 'Modeling of HII regions and chemical evolution',
-          description: "using FirstLight simulations",
+          section: "News",},{id: "projects-再電離期の星形成銀河からの輝線放射の計算",
+          title: '再電離期の星形成銀河からの輝線放射の計算',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/HII_modeling/";
-            },},{id: "projects-first-stellar-cluster-formation-at-z-15-25",
-          title: 'First Stellar cluster formation at z = 15 - 25',
+            },},{id: "projects-宇宙最初期の星団形成",
+          title: '宇宙最初期の星団形成',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/SIGO/";
-            },},{id: "projects-morphologies-of-high-redshift-galaxies",
-          title: 'Morphologies of high-redshift galaxies',
-          description: "using FirstLight simulations",
+            },},{id: "projects-遠方銀河の塊状構造の起源",
+          title: '遠方銀河の塊状構造の起源',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/clumpy_galaxies/";
-            },},{id: "projects-contribution-to-observation",
-          title: 'Contribution to Observation',
+            },},{id: "projects-観測結果の解釈-理論予測",
+          title: '観測結果の解釈/理論予測',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/collaboration_observation/";
-            },},{id: "projects-origins-of-luminous-uv-emissions-from-the-ﬁrst-galaxies-at-z-15-10",
-          title: 'Origins of luminous UV emissions from the ﬁrst galaxies at z = 15...',
+            },},{id: "projects-最遠方銀河での明るい紫外光の起源",
+          title: '最遠方銀河での明るい紫外光の起源',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/dusty_outflow/";
             },},{id: "projects-the-supersonic-project",
           title: 'The Supersonic Project',
-          description: "Collaboration with UCLA group",
+          description: "UCLAグループとの共同研究",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/supersonic_project/";
             },},{
