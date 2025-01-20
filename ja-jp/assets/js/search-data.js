@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-研究",
           title: "研究",
-          description: "Uma crescente coleção de seus projetos interessantes.",
+          description: "主に赤方偏移6以上の遠方銀河に関する理論研究を行っています。",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
