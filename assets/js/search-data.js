@@ -430,11 +430,6 @@ ninja.data = [{
           description: "Collaboration with UCLA group",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/supersonic_project/";
-            },},{id: "projects-projeto-4",
-          title: 'projeto 4',
-          description: "outro sem imagem",
-          section: "Projects",handler: () => {
-              window.location.href = "/multi-language-al-folio/projects/4_project/";
             },},{id: "projects-projeto-5",
           title: 'projeto 5',
           description: "um projeto com imagem de fundo",
@@ -445,6 +440,11 @@ ninja.data = [{
           description: "um projeto sem imagem",
           section: "Projects",handler: () => {
               window.location.href = "/multi-language-al-folio/projects/6_project/";
+            },},{id: "projects-遠方銀河の塊状構造の起源",
+          title: '遠方銀河の塊状構造の起源',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/multi-language-al-folio/projects/clumpy_galaxies/";
             },},{
         id: 'social-email',
         title: 'email',
